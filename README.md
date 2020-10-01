@@ -14,17 +14,11 @@ See [Jekyll Installation documentation](https://jekyllrb.com/docs/installation/)
 
 ### Installing
 
-Navigate to the local directory where the repo was installed
+Navigate to the local directory where the repo was installed *`cd website`*
 
-`cd website`
+Install dependencies *`bundle && npm install && bower install*`
 
-Install dependencies
-
-`bundle && npm install && bower install`
-
-Starting up
-
-`gulp`
+Starting up *`gulp`*
 
 ## Deployment
 
@@ -44,7 +38,7 @@ Add additional notes about how to deploy this on a live system
 
 * **Mike Lorey** - *Initial work* - [mdlorey](https://github.com/mdlorey)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of *[contributors]*(https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
